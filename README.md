@@ -1,4 +1,5 @@
-ncl_csc2021_tddCoursework
+TDD Coursework
+@Date: 01/12/2017
 =========================
 
 This is an Eclipse Project used as a framework to support coursework on Test-Driven Development as part of the Software Engineering Module CSC2021 in the School of Computing Science at Newcastle University.
